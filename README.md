@@ -1,2 +1,2 @@
-# Socket_windows-linux_TCP
-基于Socket编程下实现Windows与LinuxTCP通信
+# Socket_TCP
+Realize TCP communication based on Socket
