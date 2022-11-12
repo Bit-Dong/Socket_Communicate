@@ -1,2 +1,2 @@
-# Socket_TCP
-Realize TCP communication based on Socket
+# Socket_Communicate
+Realize TCP/UDP communication based on Socket
